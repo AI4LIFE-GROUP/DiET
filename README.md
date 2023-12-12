@@ -1,4 +1,4 @@
-# Verifiable Feature Attributions: A Bridge between Post Hoc Explainability and Inherent Interpretability
+# Discriminative Feature Attributions: A Bridge between Post Hoc Explainability and Inherent Interpretability
 The script for the full pipeline is at script.sh
 
 
